@@ -23,9 +23,11 @@ I am an Information Systems student at Dehasen University Bengkulu who is intere
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EricSumartian&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ Quote
+**Stay tuned...
+Rocking and Rolling with the time.
+Challenge adversity with a smile and tell it LET'S FIGHT!**
+-_Diki Stokar_.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EricSumartian&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
