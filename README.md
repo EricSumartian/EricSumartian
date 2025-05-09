@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Eric Sumartian👋
+##### 📚 Information Systems student | 💻 Web Development | 🎨 Graphic Design | 🤝 Vice Chairman of De Code 
 
+I am an Information Systems student at Dehasen University Bengkulu who is interested in IT, especially web development and design. I currently serve as the Vice Chairman of the De Code community, and enjoy continuing to learn new things about technology.
 <!--
 **EricSumartian/EricSumartian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
